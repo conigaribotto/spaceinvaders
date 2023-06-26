@@ -1,1 +1,2 @@
-# spaceinvaders
+# spaceinvaders 
+Este juego fue realizado para ayudarme a practicar JavaScript, me ayudo un tutorial de youtube. Se juega moviendote con la letra 'a' hacía la izquierda y la letra 'd' hacía la derecha. || This game was created to help me practice JavaScript. I followed a tutorial on YouTube to build it. The game involves moving the player character to the left using the 'a' key and to the right using the 'd' key.
